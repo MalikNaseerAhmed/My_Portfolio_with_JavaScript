@@ -9,11 +9,7 @@ Welcome to my digital space! 🎨✨ This portfolio is a showcase of my expertis
 - [✨ Introduction](#introduction)  
 - [🔥 Features](#features)  
 - [🛠 Technologies Used](#technologies-used)  
-- [📂 Project Structure](#project-structure)  
-- [🚀 Getting Started](#getting-started)  
 - [🎮 Usage](#usage)  
-- [📬 Contact](#contact)  
-
 ---
 
 ## ✨ Introduction  
