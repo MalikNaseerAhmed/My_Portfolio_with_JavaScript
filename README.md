@@ -50,5 +50,4 @@ Explore my skills, services, and featured projects, all wrapped in a sleek and m
 ---
 
 🚀 **Thank you for stopping by!** Let's build something awesome together. ✨👨‍💻
-### 🌟 Hey there! 🚀 Let’s take a tour of our live portfolio! 🎉
-https://maliknaseerahmed.github.io/My_Portfolio_With_JavaScript/
+### 🌟 Hey there! 🚀 Let’s take a tour of our live portfolio! 🎉 https://maliknaseerahmed.github.io/My_Portfolio_With_JavaScript
